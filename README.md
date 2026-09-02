@@ -40,5 +40,5 @@ As retail shifts from in-store to online purchasing, Điện Máy Xanh needs a c
 This is an academic coursework submission for a System Analysis and Design course, intended for educational purposes. Điện Máy Xanh is used as a case-study subject; the system design is not an official company deliverable.
 
 ## Files
-- [`UX/UI Prototype (Figma)`]([https://figma.com/design](https://www.figma.com/design/eL9HVVVOLDrudXmC2EHHMA/DMX-E-Commerce-Platform-Project?node-id=0-1&t=WILMgZJ5nroUq13O-1)) - 13+ screen
+- [`UX/UI Prototype (Figma)`]([https://figma.com/design](https://www.figma.com/design/eL9HVVVOLDrudXmC2EHHMA/DMX-E-Commerce-Platform-Project?node-id=0-1&t=WILMgZJ5nroUq13O-1) - 13+ screen
 - [`ECommerce_Platform_Project.docx`](./ECommerce_Platform_Project.docx) — Full report (Vietnamese)
