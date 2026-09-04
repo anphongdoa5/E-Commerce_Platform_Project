@@ -41,4 +41,4 @@ This is an academic coursework submission for a System Analysis and Design cours
 
 ## Files
 - [`UX/UI Prototype (Figma)`](https://www.figma.com/design/eL9HVVVOLDrudXmC2EHHMA/DMX-E-Commerce-Platform-Project?node-id=0-1&t=WILMgZJ5nroUq13O-1) - 22+ screen
-- [`ECommerce_Platform_Project.pdf`](./ECommerce_Platform_Project.pdf) — Full report (Vietnamese)
+- [`E-Commerce_Platform_Project.pdf`](./E-Commerce_Platform_Project.pdf) — Full report (Vietnamese)
