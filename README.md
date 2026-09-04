@@ -16,7 +16,7 @@ As retail shifts from in-store to online purchasing, Điện Máy Xanh needs a c
 - **Data dictionary** — full specification of data flows, data stores, and physical structure (PS), plus process specifications
 - **Use case model** — 5 use case diagrams with full specifications: Order Placement, Account Management, Payment Management, Delivery Management, and Order Management
 - **Entity-Relationship Diagram (ERD)** — full data model with entity descriptions
-- **UI design** — 13+ screen mockups covering login, registration, password recovery, homepage, account management, product details, cart, checkout, order confirmation, order tracking, customer management, order management, and statistics/reporting
+- **UI design** — 22+ screen mockups covering login, registration, password recovery, homepage, account management, product details, cart, checkout, order confirmation, order tracking, customer management, order management, and statistics/reporting
 
 ## Tools
 
@@ -40,5 +40,5 @@ As retail shifts from in-store to online purchasing, Điện Máy Xanh needs a c
 This is an academic coursework submission for a System Analysis and Design course, intended for educational purposes. Điện Máy Xanh is used as a case-study subject; the system design is not an official company deliverable.
 
 ## Files
-- [`UX/UI Prototype (Figma)`](https://www.figma.com/design/eL9HVVVOLDrudXmC2EHHMA/DMX-E-Commerce-Platform-Project?node-id=0-1&t=WILMgZJ5nroUq13O-1) - 22+ screen
+- [`UX/UI Prototype (Figma)`](https://www.figma.com/design/eL9HVVVOLDrudXmC2EHHMA/DMX-E-Commerce-Platform-Project?node-id=0-1&t=WILMgZJ5nroUq22O-1) - 22+ screen
 - [`E-Commerce_Platform_Project.pdf`](./E-Commerce_Platform_Project.pdf) — Full report (Vietnamese)
